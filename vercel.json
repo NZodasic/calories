@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/calories", "destination": "/index.html" }
+  ]
+}
