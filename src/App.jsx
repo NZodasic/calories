@@ -159,7 +159,7 @@ function App() {
         <ul className="footer-menu">
         <h1 className="footer-item" onClick={() => window.location.href = "https://foodrecognltion.vercel.app/home"}>Home</h1>
         <h1 className="footer-item" onClick={() => window.location.href = "http://localhost:3000/upload"}>Scanning food</h1>
-        <h1 className="footer-item" onClick={() => window.location.href = "https://foodrecognition.vercel.app/recives"}>Receive</h1>
+        <h1 className="footer-item" onClick={() => window.location.href = "https://foodrecognltion.vercel.app/recipes"}>Recipes</h1>
         </ul>
         </div>
       </footer>
